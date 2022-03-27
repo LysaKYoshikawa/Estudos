@@ -19,6 +19,9 @@ Tabela de conteúdos
       * [listas ligadas](#listasligadas)
    * [Estudo de terminal](#terminal)
         * [Comandos](#comandos)
+   * [Clean Code](#terminal)
+        * [1cleanCode](#clean)
+        * [evento Clean Code](#evento)
    
 <!--te-->
 

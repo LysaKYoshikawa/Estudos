@@ -128,6 +128,10 @@ O Map ele devolve um array a partir de uma função que contem um critério ou c
 ### Usando Filter
 Ele devolve um array porem os elementos filtrados, que foi passado pela condição ou função
 
+![image](https://user-images.githubusercontent.com/64383080/160264680-388a5bc3-567b-4b81-8e01-5a83c93b355c.png)
+
+A imagem acima traz um exemplo de uso com map e filter
+
 ### Usando o método reduce
 Por fim temos o método reduce recebe uma função com o mesmo nome com os seguintes parâmetros: 
 
@@ -154,6 +158,22 @@ Resumindo seria uma interação de chave e valor, em outras palavras o método e
 Lembrando do array numbers 
 
 ![image](https://user-images.githubusercontent.com/64383080/157358778-8ab62aa0-c263-432a-9781-64b109f1a0aa.png)
+
+
+<h2 align="center"> Notas sobre o for </h2>
+
+for é composto pelos:
+
+for ([inicialização]; [condição]; [expressão final]) declaração;
+
+Inicialização: Seria o contador de variaveis. A iniciação não é o local onde será feito o loop, mas onde se inicia e/ou armazena o loop.
+
+Condição: uma expressão para ser avaliada antes de cada iteração do loop. Se for omitida sera sempre considerada como verdadeira.
+
+Expressão Final: A expressão que sera avaliada no final de cada loop. Isso ocorre antes da proxima avaliaçãoda condição
+
+Declaração: Uma declaração que é executada quando a condição for verdadeira 
+
 
 <h2 align="center" > 🛠 fonte </h2>
 
