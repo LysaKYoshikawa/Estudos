@@ -45,7 +45,7 @@ Abaixo tem uma série de reflexões que o autor abordou para pensar em bons nome
 
  `getActiveAccountInfo()`;
 
-São nomes parecidos para situações diferentes, então detalhar ou diferenciar elas é importante, porque caso contrario como saber qual função chamar?
+São nomes parecidos para situações diferentes, então detalhar ou diferenciar elas é importante, porque caso contrário como saber qual função chamar?
 
 Ou outras situações como nomear `e1` `e2` e `e3` essa sitação tambem não esta clara.
 Outro ponto que o autor tambem tras é evitar codificar em nomes colocar ou reduzir nomes para uma letra.
