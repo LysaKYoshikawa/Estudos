@@ -116,7 +116,7 @@ Classes e objetos devem ter nomes com substantivos como Custumes, WikePage, Acco
 
 <h2 align="center" #condicionais > 🔹  Nomes de métodos</h2>
 
-Os nomes de metodos devem ter verbos, como `Post Payment` , `Delete Page` ou `Save`
+Os nomes de métodos devem ter verbos, como `Post Payment` , `Delete Page` ou `Save`
 
 
 ## Frase impactante 
