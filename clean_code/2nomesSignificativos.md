@@ -101,7 +101,7 @@ Porem existe momentos que podemos usar nomes com uma letra quando estão dentro 
 
 <h3 align="center"> 🔸 Nomes do dominio da solução</h3>
 
-Outra dica importante que o autor traz é que caso não consiga de nenhuma forma nomear o arquivo pense no nome do dominio do problema. De fato saber que o nome não esta bom e pensar em um nome bom é dificil então ele passa essa dica caso não consiga pensar em nenhum nome a <i>la programador</i>. 
+Outra dica importante que o autor traz é que caso não consiga de nenhuma forma nomear o arquivo pense no nome do dominio do problema. De fato saber que o nome não está bom e pensar em um nome bom é dificil então ele passa essa dica caso não consiga pensar em nenhum nome a <i>la programador</i>. 
 
 <h3 align="center"> 🔸Contexto no nome </h3>
 
