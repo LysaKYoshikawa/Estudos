@@ -108,7 +108,7 @@ Outra dica importante que o autor traz é que caso não consiga de nenhuma forma
 Um nome como `message` pode não ser claro, afinal não dá para saber do que trata-se esse nome, então dar um contexto ao nome tambem é importante como `massageBox`. 
 Outro exemplo é variaveis de endereço como lastName, street, houseNumber, state...Se elas estiverem juntas será facil presumir que trata-se de um endereço, porem se aparecer `state` no meio do código fica difícil entender do que ele se refere. Então nesse caso adicionar um contexto como `addrState` pode ficar mais claro.
 
-Porem tambem reflete pensar no contexto desnecessario como sigla da empresa nome da variável, isso não é pratico e não é legível. Exemplo: Estado de São Paulo e variavel `SPAddress`
+Porém, também reflete pensar no contexto desnecessário como sigla da empresa nome da variável, isso não é prático e não é legível. Exemplo: Estado de São Paulo e variavel `SPAddress`
 
 <h2 align="center"> 🔹  Nomes de classes</h2>
 
