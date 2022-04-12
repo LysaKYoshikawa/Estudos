@@ -121,7 +121,7 @@ Os nomes de métodos devem ter verbos, como `Post Payment` , `Delete Page` ou `S
 
 ## Frase impactante 
 
-<i> "Uma diferença entreum programador esperto e um programador profissional é que este entende que clareza é fundamental. Os profissionais usam seus poderes para o bem e escrevem códigos que outros possam entender." pag 25 Clean Code </i>
+<i> "Uma diferença entre um programador esperto e um programador profissional é que este entende que clareza é fundamental. Os profissionais usam seus poderes para o bem e escrevem códigos que outros possam entender." pag 25 Clean Code </i>
 
 ### Breve entendimento do capitulo 2 do livro clean code
 
