@@ -17,7 +17,7 @@
  <a href="#">Nome de Métodos</a> • 
 </p>
 
-Se analisar um programa nomeamos tudo, desde funções, variaveis a pacotes e codigos fontes. Mas quantas vezes ao entrar em um codigo percebemos que o nome da função não condizia com a sua funcionalidade.
+Se analisar um programa nomeamos tudo, desde funções, variáveis a pacotes e codigos fontes. Mas quantas vezes ao entrar em um código percebemos que o nome da função não condizia com a sua funcionalidade.
 
 <h2 align="center"> 🔹 Porque escolher bons nomes</h2>
 
