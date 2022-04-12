@@ -112,7 +112,7 @@ Porém, também reflete pensar no contexto desnecessário como sigla da empresa 
 
 <h2 align="center"> 🔹  Nomes de classes</h2>
 
-Classes e objetos devem ter o nomes  com substantivos como Custumes, WikePage, Account e AddressParser 
+Classes e objetos devem ter nomes com substantivos como Custumes, WikePage, Account e AddressParser 
 
 <h2 align="center" #condicionais > 🔹  Nomes de métodos</h2>
 
