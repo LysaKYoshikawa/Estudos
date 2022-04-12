@@ -23,7 +23,7 @@ Se analisar um programa nomeamos tudo, desde funções, variáveis a pacotes e c
 
 Depois de ler o capítulo tive uma interpretação própria da sua importância. Bons nomes podem trazer clareza ao que trata-se o determinado trecho de código. 
 
-Imagine que você não pode ver um objeto e nem toca-lo. Porém alguém te fala que esse objeto se chama `vdFlor` e disseram que você precisa levar para a `JTS`. Ai depois de muito tempo, mas muito tempo, você entende que `vdFlor` trata-se de um `vaso de flor` e `JTS` trata-se de ir a `janela tomar sol`.
+Imagine que você não pode ver um objeto e nem tocá-lo. Porém, alguém te fala que esse objeto se chama `vdFlor` e disseram que você precisa levar para a `JTS`. Ai depois de muito tempo, mas muito tempo, você entende que `vdFlor` trata-se de um `vaso de flor` e `JTS` trata-se de ir a `janela tomar sol`.
 
 Um código mal nomeado trata-se exatamente dessa situação é algo que não esta claro é você não consegue ver.
 
