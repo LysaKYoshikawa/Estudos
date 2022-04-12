@@ -47,7 +47,7 @@ Abaixo tem uma série de reflexões que o autor abordou para pensar em bons nome
 
 São nomes parecidos para situações diferentes, então detalhar ou diferenciar elas é importante, porque caso contrário como saber qual função chamar?
 
-Ou outras situações como nomear `e1` `e2` e `e3` essa sitação tambem não esta clara.
+Ou outras situações como nomear `e1` `e2` e `e3`. Essa situação também não está clara.
 Outro ponto que o autor tambem tras é evitar codificar em nomes colocar ou reduzir nomes para uma letra.
 
 <h3 align="center"> 🔸 Nomes que revelam propositos</h3>
