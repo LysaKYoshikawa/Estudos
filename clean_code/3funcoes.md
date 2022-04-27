@@ -68,7 +68,7 @@ Segundo o autor: "Acaba sendo muito difícil para os programadores aprenderem a 
 É difícil fazer um switch que faz apenas uma coisa, via de regra um ```switch``` faz ```N``` coisas.
 O autor traz como dica para usar o polimorfismo, deixando o switch em uma classe de baixo nível e garantindo que nunca é repetido.
 
-No livro ele tras um exemplo em java
+No livro ele tráz um exemplo em java
 
 ```
 public Money calculatePay(Employee e)
