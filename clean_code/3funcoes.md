@@ -95,7 +95,7 @@ Aqui o autor trouxe 4 pontos negativos a esse exemplo.
 Ele diz que switch são aceitas se aparecerem apenas uma vez, como para criação de objetos poliformicos, e estiverem escondidas atras de uma relação de herança de modo que o resto do sistema não terá acesso. Porém, claro que tudo tem uma excessão e pode haver momentos que não dará para seguir todas as regras.
 
 <h2 align="center"> 🔹 Nomes de funções</h2>
-Outra dica que ele tras para funções claras seria usar nomes descritivos. Nomes que trazem o que realmente a função esta fazendo.
+Outra dica que ele traz para funções claras seria usar nomes descritivos. Nomes que trazem o que realmente a função esta fazendo.
 Claro que muitas vezes ao escolher um bom nome talvez seja necessário uma refaturação no código, porque será o momento que possivelmente você irá enxergar pontos de melhoria.
 
 Escolher um bom nome pode ir desde explicar o que a função faz à explicar e ordenar a finalidade dos parâmetros. Por exemplo uma função mônade(função onde existe um parâmetro), em uma função desse tipo o parâmetro e o nome da devem formar um par. Por exemplo ```write(name)``` esta bem claro pelo nome, a sua finalidade.
