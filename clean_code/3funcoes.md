@@ -32,7 +32,7 @@ O autor informa que em meados de 1980 era comum dizer que uma função não podi
 
 <h2 align="center"> 🔹 Blocos e indentação</h2>
 
-Aqui trás intruções que blocos como: ```If, else, while ``` e outros devem ter apenas uma linha, usando um ternário por exemplo. É explicado também que o nivel de indentação deve ter no máximo 1 ou 2 espaços  o que o que acaba influênciando para a função ser pequena.
+Aqui traz instruções que blocos como: ```If, else, while ``` e outros devem ter apenas uma linha, usando um ternário por exemplo. É explicado também que o nível de indentação deve ter no máximo 1 ou 2 espaços o que acaba influenciando para a função ser pequena.
 
 
 <h2 align="center"> 🔹 Objetividade </h2>
