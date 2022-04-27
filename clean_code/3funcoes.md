@@ -16,7 +16,7 @@ Indice
 <h2 align="center"> 🔹 Funções</h2>
 
 As funções são a primeira linha de organização em qualquer programa.
-Uma reflexão que o autor trás é que uma função tem que ser como um trecho de uma historia, ou seja a forma como você irá ler o código tem que seguir uma coerência e estar claro como uma narrativa.
+Uma reflexão que o autor traz é que uma função tem que ser como um trecho de uma historia, ou seja, a forma como você irá ler o código tem que seguir uma coerência e estar claro como uma narrativa.
 
 <h2 align="center"> 🔹 Pequenas</h2>
 
