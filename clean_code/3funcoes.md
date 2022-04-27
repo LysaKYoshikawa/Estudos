@@ -20,7 +20,7 @@ Uma reflexão que o autor traz é que uma função tem que ser como um trecho de
 
 <h2 align="center"> 🔹 Pequenas</h2>
 
-Não tem uma pesquisa e nem referências que afirmam que funções pequenas são melhores, porém segundo o autor pela experiência dele quanto menor uma função, mais fácil de ler ela será. 
+Não tem uma pesquisa e nem referências que afirmam que funções pequenas são melhores. Porém, segundo o autor pela experiência dele quanto menor uma função, mais fácil de ler ela será. 
 Isso não quer dizer que caso ocorra a necessidade da função ser grande, que o codigo está ruim, mas que irá requer mais esforço para entender ela.
 
 O autor informa que em meados de 1980 era comum dizer que uma função não podia passar do tamanho da tela do monitor. Naquela época as telas comuns para programação eram VT100, de 24 linhas. Atualmente com fontes reduzidas e monitores grandes fácilmente em uma tela passaria de 100 linhas, porém o mesmo afirma que uma função jamais deve chegar a tanto, as funções devem ter no máximo 20 linhas 
