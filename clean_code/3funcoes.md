@@ -53,7 +53,7 @@ Essa pessoa sai de casa vestida desse jeito.
 
 Você não consegue por esses trajes determinar se a pessoa saiu para um dia ensolarado, um dia de frio ou chuvoso. Uma função que executa várias coisas, seria como uma pessoa que não sabe a roupa que vai usar. Imagine que essa pessoa está saindo para uma cidade onde o clima é abaixo de 0°c a probabilidade dela adquirir uma gripe é grande. Essa "gripe" poderia ser um bug ou uma interpretação errada da função.
 
-O mais difícil é entender o que seria essa ```uma coisa``` uma forma que o autor tras de dica é listar o que a função esta fazendo e se chegar em alguma parte do código que você consegue abstrair e fazer uma função dessa abstração, então talvez seja uma opção, quebrar a função em mais de uma.
+O mais difícil é entender o que seria essa ```uma coisa``` uma forma que o autor traz de dica é listar o que a função esta fazendo e se chegar em alguma parte do código que você consegue abstrair e fazer uma função dessa abstração. Então talvez seja uma opção quebrar a função em mais de uma.
 
 Outro ponto importante que o autor tráz é que ao fazer uma lista pode-se entender que a função esta fazendo varias coisas e assim entender que está construindo errado a função. Entretanto se a função está seguindo um passo à passo para uma mesma finalidade ou ```uma mesma coisa``` então a função esta seguindo a regra da objetividade. 
 
