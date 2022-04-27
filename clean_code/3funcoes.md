@@ -37,7 +37,7 @@ Aqui traz instruções que blocos como: ```If, else, while ``` e outros devem te
 
 <h2 align="center"> 🔹 Objetividade </h2>
 
-As funções precisam fazer apenas uma coisa simples. Isso que dizer que uma função que executa mais de uma objetividade, mais de uma coisa a função corre o risco de perder-se na sua funcionalidade, fica mais propenço a bug e alem de ficar mais difícil de entender a função.
+As funções precisam fazer apenas uma coisa simples. Isso que dizer que uma função que executa mais de uma coisa, a função corre o risco de perder-se na sua funcionalidade. Fica mais propenso a bug e além de ficar mais difícil de entender a função.
 
 Mas não é apenas fazer uma coisa é fazer ela bem feita e de fato executar essa ```uma coisa```.
 
