@@ -2,7 +2,7 @@
 
 Conceitos e entendimentos do livro Clean Code - Resumo dissertativo 
 
-Esse capitulo explica como escrever bem funções de forma claras. Ele descreve como podemos fazer isso e traz algumas reflexões do dia a dia.
+Esse capítulo explica como escrever bem funções de forma claras. Ele descreve como podemos fazer isso e traz algumas reflexões do dia a dia.
 
 Indice 
 <p align="center">
