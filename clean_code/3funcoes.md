@@ -66,7 +66,7 @@ Segundo o autor: "Acaba sendo muito difícil para os programadores aprenderem a 
 <h2 align="center"> 🔹 Switch </h2>
 
 É difícil fazer um switch que faz apenas uma coisa, via de regra um ```switch``` faz ```N``` coisas.
-O autor tráz como dica para usar o polimorfismo, deixando o switch em uma classe de baixo nivel e garantindo que nunca é repetido.
+O autor traz como dica para usar o polimorfismo, deixando o switch em uma classe de baixo nível e garantindo que nunca é repetido.
 
 No livro ele tras um exemplo em java
 
