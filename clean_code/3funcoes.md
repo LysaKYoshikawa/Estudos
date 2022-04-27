@@ -41,7 +41,7 @@ As funções precisam fazer apenas uma coisa simples. Isso que dizer que uma fun
 
 Mas não é apenas fazer uma coisa é fazer ela bem feita e de fato executar essa ```uma coisa```.
 
-Pensei um exemplo para entender essa parte.Imagine uma pessoa, saindo de casa,com os seguintes trajes: 
+Pensei um exemplo para entender essa parte. Imagine uma pessoa, saindo de casa, com os seguintes trajes: 
 touca,
 camiseta regata,
 sobretudo no braço,
