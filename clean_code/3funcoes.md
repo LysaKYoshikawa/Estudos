@@ -98,7 +98,7 @@ Ele diz que switch são aceitas se aparecerem apenas uma vez, como para criaçã
 Outra dica que ele traz para funções claras seria usar nomes descritivos. Nomes que trazem o que realmente a função esta fazendo.
 Claro que muitas vezes ao escolher um bom nome talvez seja necessário uma refatoração no código, porque será o momento que possivelmente você irá enxergar pontos de melhoria.
 
-Escolher um bom nome pode ir desde explicar o que a função faz à explicar e ordenar a finalidade dos parâmetros. Por exemplo uma função mônade(função onde existe um parâmetro), em uma função desse tipo o parâmetro e o nome da devem formar um par. Por exemplo ```write(name)``` esta bem claro pelo nome, a sua finalidade.
+Escolher um bom nome pode ir desde explicar o que a função faz a explicar e ordenar a finalidade dos parâmetros. Por exemplo, uma função mônade (função onde existe um parâmetro), em uma função desse tipo o parâmetro e o nome da devem formar um par. Por exemplo ```write(name)``` esta bem claro pelo nome, a sua finalidade.
 
 <h2 align="center"> 🔹 Parâmetros de funções</h2>
 
