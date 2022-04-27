@@ -6,11 +6,16 @@ Esse capítulo explica como escrever bem funções de forma claras. Ele descreve
 
 Indice 
 <p align="center">
- <a href="#As consequências de um código ruim">subtitulo</a> •
- <a href="#igualdade">subtitulo</a> • 
- <a href="#condicionais">subtitulo</a> • 
- <a href="#lacos">subtitulo</a> • 
- <a href="#Autor do quadro/livro">subtitulo</a>
+ <a href="#">Funções</a> •
+ <a href="#">Pequenas</a> • 
+ <a href="#">Bloco e indentação</a> • 
+ <a href="#">Objetividade</a> • 
+ <a href="#">Regra decrescente</a> • 
+ <a href="#">Switch</a> • 
+ <a href="#">Nomes de funções</a> • 
+ <a href="#">Parâmetros de funções</a> • 
+ <a href="#">Efeitos colaterais</a> • 
+  <a href="#">Tratamento de erros</a> • 
 </p>
 
 <h2 align="center"> 🔹 Funções</h2>
