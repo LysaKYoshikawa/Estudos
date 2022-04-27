@@ -92,7 +92,7 @@ Aqui o autor trouxe 4 pontos negativos a esse exemplo.
 - Terceiro ela viola o Princípio da Responsabilidade Unica(SRP) por haver mais de um motivo para altera-la
 - Quarto ela viola Princípio de Aberto-Fechado (OCP), pois será necessário modifica-la sempre que novos funcionários entrarem
 
-Ele diz que switch são aceitas se aparecerem apenas uam vez, como para criação de objetos poliformicos, e estiverem escondidas atras de uma relação de herança de modo que o resto do sistema não terá acesso. Porém claro que tudo tem uma excessão e pode haver momentos que não dará para seguir todas as regras.
+Ele diz que switch são aceitas se aparecerem apenas uma vez, como para criação de objetos poliformicos, e estiverem escondidas atras de uma relação de herança de modo que o resto do sistema não terá acesso. Porém, claro que tudo tem uma excessão e pode haver momentos que não dará para seguir todas as regras.
 
 <h2 align="center"> 🔹 Nomes de funções</h2>
 Outra dica que ele tras para funções claras seria usar nomes descritivos. Nomes que trazem o que realmente a função esta fazendo.
