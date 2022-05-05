@@ -15,7 +15,7 @@ indice
 
 <h2 align="center"> 🔹 Controle de versão ou Version Control System - VCS</h2>
 
-É a ação de controlar a versão do codigo que será implementada e assim não subir versão de código desatualizada. Isso pode ocorrer quando você está trabalhando em time e varias pessoas desejam subir uma versão do código atualizado para um repositorio local.
+VCS : É a ação de controlar a versão do código que será implementada e assim não subir versão de código desatualizada. Isso pode ocorrer quando você está trabalhando em time e várias pessoas desejam subir uma versão do código atualizado para um repositorio local.
 
 Neste servidor, deve haver alguma ferramenta capaz de identificar que a versão enviada não é a mais recente, e portanto não deixe o arquivo ser enviado. Isto é, antes do envio de uma alteração, este colega de trabalho precisará baixar as alterações que já foram enviadas, para que só então consiga enviar a versão atualizada por ele.
 
@@ -32,6 +32,52 @@ Branches ("ramos") são utilizados para desenvolver funcionalidades isoladas uma
 
 É interessante separar o desenvolvimento de funcionalidades em branches diferentes, para que as mudanças no código para uma não influencie no funcionamento de outra.
 
+<h2 align="center"> 🔹 Diferença de Merge e Rebase</h2>
+O merge junta os trabalhos e gera um merge commit. O rebase aplica os commits de outra branch na branch atual.
+
+https://medium.datadriveninvestor.com/git-rebase-vs-merge-cc5199edd77c
+
+Com o `git checkout ` nós desfazemos uma alteração que ainda não foi adicionada ao `index ` ou `stage `, ou seja, antes do `git add `. Depois de adicionar com `git add `, para desfazer uma alteração, precisamos tirá-la deste estado, com `git reset `. Agora, se já realizamos o `commit `, o comando `git revert ` pode nos salvar.
+
+<h2 align="center"> 🔹 Reverter um commit</h2>
+Supondo que eu tenha dado um git add ., porém percebi que não era para subir como git add porque ainda tem ajustes, então desfazer esse commit você pode usar o comando 
+
+`git reverse <numero da hash> ` posso desfazer um commit
+
+primeiro tem que dar `git log` pegar o numero de `hash ` e colocar ele seguido o `git reverse ` .
+
+![image](https://user-images.githubusercontent.com/64383080/166515918-cbda91df-7460-426b-95af-572c323a9109.png)
+
+ele ira criar um commit de que foi desfeito o commit anterior.
+
+<h2 align="center"> 🔹 E se eu quiser guardar um commit pra mexer depois?</h2>
+Caso ocorra a situação que eu precise ir para outro projeto e queira salvar as alterações que fiz do código, porem ele ainda não esta funcionando conforme regras.
+
+posso usar o comando `git stash ` conseguimos salvar todas as alterações,  para um local temporário, sem necessidade de um commit ou de se gerar um commit para isto.
+
+ após `git stash ` executarmos `git stash list `, teremos uma lista de tudo que estiver salvo nestas condições. Como no exercicio em apenas uma alteração mostrara apenas uma alteração.
+
+ ![image](https://user-images.githubusercontent.com/64383080/166567498-d593f127-a1ae-4736-b555-a69461332d55.png)
+
+
+Supondo que você voltou a trabalhar no projeto fez alterações e fez commit delas e quero voltar a trabalhar com as alterações que estão no `stash `, podemos primeiro dar `git stash list ` verificar o numero da alteração e passar o comando `git stash apply 0 ` como no exemplo:  
+
+![image](https://user-images.githubusercontent.com/64383080/166568163-7907ba1d-f267-4e9f-aab7-c33b35312d39.png)
+
+Depois precisaria dar `git stash drop ` para remover as alterações 
+
+![image](https://user-images.githubusercontent.com/64383080/166568397-924f1a3c-2674-460d-9850-f3a0174b5db7.png)
+
+Outra forma de fazer seria pegar as alterações e execluir o item da list do stash, que dá para ser feito com `git stash pop `, ele realiza o merge com as modificações que já temos e aplica aquelas que já estavam salvas lá.
+
+<h2 align="center"> 🔹 Viajar entre commits</h2>
+Supondo que precisa voltar em algum commit, você precisa pegar o inicio da hash que esta abaixo na coluna amarela
+
+![image](https://user-images.githubusercontent.com/64383080/166615212-3139173f-a4ed-47ff-948d-cce660e61cec.png)
+
+e dar um comando `git checkout 6771525 ` esse numero na frente são os 7 primeiro digitos da identificação do commit, como eles são unicos basta dar essa sequência, que você ira para um commit anterior
+
+Vai aparecer uma mensagem informando que você esta em um commit anterior que atualização atualizações posteriores a ela não estão nesse commit.
 
 <h2 align="center"> 🔹 Comandos</h2>
 
@@ -66,7 +112,8 @@ git config --local user.email "seu@email.aqui"COPIAR CÓDIGO
 
 `git config --local ` você realiza as alterações o config te permite configurar.
 
-`git log --oneline ` traz os historicos de alterações resumidos
+`git log --oneline ` traz os historicos de alterações resumidos 
+Caso entre no log e não consiga mais sair aperte a tecla `q`
 
 `git log -p ` tras mais informações, como as alterações do commit.
 
