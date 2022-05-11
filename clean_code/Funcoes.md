@@ -6,7 +6,7 @@ Esse capítulo explica como escrever bem funções de forma claras. Ele descreve
 
 Indice 
 <p align="center">
- <a href="#">Funções</a> •
+ <a href="#funcoes">Funções</a> •
  <a href="#">Pequenas</a> • 
  <a href="#">Bloco e indentação</a> • 
  <a href="#">Objetividade</a> • 
