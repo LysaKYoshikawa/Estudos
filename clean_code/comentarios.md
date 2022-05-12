@@ -24,7 +24,7 @@ O comentário também pode estar atrapalhando o entendimento da função, pelo c
 
 <h2 align="center"> 🔹 Quando comentar?</h2>
 
-O autor explica que tem situações que o comentário é necessário, mas são momento muito posuais.
+O autor explica que tem situações que o comentário é necessário, mas são situações pontuais.
 
 Em situações que o comentário esta trázendo direitos autorais ou informações necessárias do funcionamento é um momento de um comentário breve e direto.
 
