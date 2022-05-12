@@ -40,7 +40,7 @@ Comentário de alerta de consequências, as vezes é necessário um comentário 
 
 Comentários To Do
 
-São comentário de coisas para ainda fazer no código, é uma forma que alguns programadores se organizam. Porém ele alerta que precisam ser apagados após a criação da funcionalidade e ainda sim quando fizer tem que estar de forma clara para outras pessoas entenderem o que será feito.
+São comentários de coisas para ainda fazer no código, é uma forma que alguns programadores se organizam. Porém ele alerta que precisam ser apagados após a criação da funcionalidade e ainda sim quando fizer tem que estar de forma clara para outras pessoas entenderem o que será feito.
 
 Comentário destaque, pode-se usar comentário para estacar algo importante.
 
