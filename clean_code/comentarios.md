@@ -30,7 +30,7 @@ Em situações que o comentário esta trazendo direitos autorais ou informaçõe
 
 Comentários informativos, são comentário informando o que uma função ou trecho de código esta retornando, porém o autor disse também que nesse casos vale reavaliar os nomes porque as vezes renomeando o nome da função ou variável ficará fácil de entender e sem precisar de comentário.
 
-Comentários de esclarecimento, quando você tráz um comentário esclarecendo o que o parâmetro ou valores estão retornando. 
+Comentários de esclarecimento, quando você traz um comentário esclarecendo o que o parâmetro ou valores estão retornando. 
 
 Comentário de alerta de consequências, as vezes é necessário um comentário avisando uma consequência do código. No exemplo do livro:
 
