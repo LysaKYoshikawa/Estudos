@@ -16,7 +16,7 @@ indice
 
 Segundo o entendimento e o que o autor trouxe, ele não indica fazer comentários em códigos. Muitas vezes refatorar o código ou função é melhor que exercer um comentário.
 
-No livro ele tráz que comentários são ruins, porque muitas vezes o que foi colocado como comentário não condiz com o que a função ou trecho de código faz.
+No livro ele traz que comentários são ruins, porque muitas vezes o que foi colocado como comentário não condiz com o que a função ou trecho de código faz.
 
 Em certas ocasiões o comentário pode estar desatualizado com a finalidade da função
 
