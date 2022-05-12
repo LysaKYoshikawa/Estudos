@@ -26,7 +26,7 @@ O comentário também pode estar atrapalhando o entendimento da função, pelo c
 
 O autor explica que tem situações que o comentário é necessário, mas são situações pontuais.
 
-Em situações que o comentário esta trázendo direitos autorais ou informações necessárias do funcionamento é um momento de um comentário breve e direto.
+Em situações que o comentário esta trazendo direitos autorais ou informações necessárias do funcionamento é um momento de um comentário breve e direto.
 
 Comentários informativos, são comentário informando o que uma função ou trecho de código esta retornando, porém o autor disse também que nesse casos vale reavaliar os nomes porque as vezes renomeando o nome da função ou variável ficará fácil de entender e sem precisar de comentário.
 
