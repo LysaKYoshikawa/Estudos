@@ -23,7 +23,7 @@ Tabela de conteúdos
         * [Clean Code](/clean_code/CleanCode.md)
         * [Nomes Significativos](/clean_code/Nomes.md)
         * [Funções](/clean_code/Funcoes.md)
-        * [Comentários](/clean_code/Comentarios.md)
+        * [Comentários](/clean_code/comentarios.md)
         * [evento Clean Code](/clean_code/eventoCleanCode.md)
    
 <!--te-->
