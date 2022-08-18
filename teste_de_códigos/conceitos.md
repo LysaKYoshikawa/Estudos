@@ -15,4 +15,5 @@ usar essa formatação
 
 - Teste funcional: o objetivo desse teste é garantir que, da visão do usuário, a funcionalidade testada está se comportando de acordo com o esperado.
 
-### Breve entendimento do capitulo numero do capitulo do livro clean code
+- Teste de stress
+- teste de contrato
