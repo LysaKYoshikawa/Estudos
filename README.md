@@ -32,17 +32,7 @@ Tabela de conteúdos
 	🚧  Select 🚀 Em construção...  🚧
 </h4>
 
-## Features
 
-- [x] Leitur do livro Estrutura de dados e algoritmos
-- [x] Desafios de algoritmos
-- [x] Repositorio dos exercicios
-- [x] Curso do github 
-- [x] Leitura do capitulo 4 clean code
-- [ ] Leitura do capitulo 5 clean code
-- [ ] Artigo de estrutura de dados
-- [ ] Curso de JavaScript
-- [ ] Desafio front-end
 
 
 
@@ -54,8 +44,9 @@ Tabela de conteúdos
 
 ### 🛠 Mentores:
 
-Segue o link do github dos mentores
+Segue o link do github dos mentores:
 
+- [Tolotti](https://github.com/wtolotti)
 - [Apache](https://github.com/daniiell3)
 - [Caio Silva](https://github.com/rasecoiac03)
 
