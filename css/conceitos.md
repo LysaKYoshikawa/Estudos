@@ -63,7 +63,7 @@ o hover deixa um efeito de mudr de cor quando passa o mouse por cima
 ![Alt text](image/image-2.png)
 
 
-### Psdoclasse
+# Psdoclasse
 
 Tipo vc chama uma classe e add uma classe de ação para ele. 
 
@@ -81,7 +81,7 @@ O [Coolors](https://coolors.co/) possui uma interface bem clara. Com a barra d
 
 O [Color Hunt](https://colorhunt.co/) dispõe de diversas paletas elaboradas. Você consegue encontrar a combinação que mais te agrada e consegue buscar por palavras-chave como pastel, vintage, neon e assim por diante. E caso não encontre nenhuma que te agrade, você consegue criar a sua própria paleta clicando nos três pontinhos do canto superior direito da página.
 
-### Nome de classes
+# Nome de classes
 
 [https://www.alura.com.br/artigos/nomes-de-classes-no-css](https://www.alura.com.br/artigos/nomes-de-classes-no-css)
 
@@ -97,7 +97,7 @@ O que o BEM propõe é organizar esses nomes, que nomes vamos dar para os elemen
 
 `block__element--modifier`
 
-### ****Reset CSS: O que é?****
+# ****Reset CSS: O que é?****
 
 Cada navegador tem a sua apresentação por padrão e esse comportamento individualizado pode gerar conflitos de layout diante do seu projeto web.
 
@@ -113,7 +113,7 @@ Por que usar essa configuração padrão é pq em um browser é uma coisa e em o
 Normalize e reset parece ter a mesma finalidade em um projeto eu escolho um dos dois ou os dois?
 Por quer usar essa configuração padrão? Se eu ja colocar uma estilização no css preciso ter o reset.css pq a minha estilização ira falhar dependendo do browser?
 
-### Especificidade css
+# Especificidade css
 
 CSS é uma folha de estilo em cascata ou seja numa sequencia.
 
@@ -129,7 +129,7 @@ Calculadora de specificity
 
 ![Alt text](image/image-3.png)
 
-### Herança
+# Herança
 
 link: [https://developer.mozilla.org/pt-BR/docs/Web/CSS/Inheritance](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Inheritance)
 
@@ -147,7 +147,7 @@ div{
 }
 ```
 
-### Box Model
+# Box Model
 
 ![Alt text](image/image-4.png)
 
@@ -157,14 +157,14 @@ border
 Padding
 content
 
-### Propriedade Display
+# Propriedade Display
 
 `display: block;` block significa que cada elemento será sua própria linha. Ele causa que o efeito será impresso na sua própria linha uma linha individual.
 `display: inline;` A largura e altura é desconsiderada em um display inline e mantem tudo na mesma linha.
 
 `display: inline-bock;` aqui ele deixa na linha mas considera os tamanhos de largura e altura.
 
-### Box Sizing
+# Box Sizing
 
 Se você quise que a parte da borda para dentro seja considerado como tamanho solicitado pode usar a propriedade `box-sizing` 
 
@@ -172,7 +172,7 @@ A propriedade CSS `box-sizing`nos permite incluir o preenchimento e a borda na 
 
 [https://www.w3schools.com/css/css3_box-sizing.asp](https://www.w3schools.com/css/css3_box-sizing.asp)
 
-### Propriedade Overflow
+# Propriedade Overflow
 
 As vezes tem situações que você uma imagem ou conteudo vai ocupar outro elemento. Uma forma de amenizar isso seria aplicando `overflow`
 
@@ -196,7 +196,7 @@ Se eu colocar `overflow-y: scroll;` sera um scroll apenas no eixo Y
 
 ![Alt text](image/image-10.png)
 
-### Propriedade Float
+# Propriedade Float
 
 é para configuração da flutuação do elemento 
 
@@ -216,9 +216,9 @@ Aplicando `float:right`
 Praticando o float 
 [https://www.w3schools.com/css/tryit.asp?filename=trycss_layout_float3](https://www.w3schools.com/css/tryit.asp?filename=trycss_layout_float3)
 
-### Cores
+# Cores
 
-# Valor HSL
+## Valor HSL
 
 Em CSS, uma cor pode ser especificada usando matiz, saturação e luminosidade (HSL) na forma:
 
@@ -234,7 +234,7 @@ A leveza também é uma porcentagem. 0% é preto, 50% não é nem claro nem esc
 
 [https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
-# Valor HEX
+## Valor HEX
 
 Em CSS, uma cor pode ser especificada usando um valor hexadecimal na forma:
 
@@ -248,7 +248,7 @@ Para exibir preto, defina todos os valores como 00, assim: #000000.
 
 Para exibir branco, defina todos os valores para ff, assim: #ffffff.
 
-# Valor RGB
+## Valor RGB
 
 Em CSS, uma cor pode ser especificada como um valor RGB, usando esta fórmula:
 
@@ -262,7 +262,7 @@ Para exibir preto, defina todos os parâmetros de cor como 0, assim: rgb(0, 0, 0
 
 Para exibir branco, defina todos os parâmetros de cor para 255, assim: rgb(255, 255, 255).
 
-### Unidades
+# Unidades
 
 Absolutos: 
 - `px`
@@ -280,7 +280,7 @@ Font:
 
 Viewport e Fonts são unidades relativas
 
-# Comprimentos absolutos
+## Comprimentos absolutos
 
 As unidades de comprimento absoluto são fixas e um comprimento expresso em qualquer um deles aparecerá exatamente com esse tamanho.
 
@@ -296,7 +296,7 @@ Unidades de comprimento absoluto não são recomendadas para uso na tela, porque
 | pc | picas (1pc = 12 pt) |
 |  |  |
 
-# Comprimentos Relativos
+## Comprimentos Relativos
 
 As unidades de comprimento relativo especificam um comprimento relativo a outra propriedade de comprimento. As unidades de comprimento relativo escalam melhor entre diferentes mídias de renderização.
 
@@ -312,7 +312,7 @@ As unidades de comprimento relativo especificam um comprimento relativo a outra 
 | vmax | Relative to 1% of viewport's* larger dimension |
 | % | Relative to the parent element |
 
-### Propriedade Position
+# Propriedade Position
 
 Temos algumas configurações para posições de elementos. 
 [https://www.w3schools.com/css/css_positioning.asp](https://www.w3schools.com/css/css_positioning.asp)
@@ -446,7 +446,7 @@ Passando a ficar assim:
 
 ![Alt text](image/image-14.png)
 
-### Media Query
+# Media Query
 
 A media query te ajuda na responsividade.Atualmente o mais conhecido é o bootstrap
 Uma **media query** consiste de um *media type* e pelo menos uma expressão que limita o escopo das folhas de estilo usando *media features*, tal como largura, altura e cor. *Media queries*, adicionadas no CSS3, deixam a apresentação do conteúdo adaptado a uma gama especifica de dispositivos não precisando mudar o conteúdo em si.
@@ -467,7 +467,7 @@ Podemos mexer na largura maxima, largura minima, orientação.
 
  [https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 
-### Flex Box
+# Flex Box
 
 O módulo de layout de caixa flexível torna mais fácil projetar uma estrutura de layout responsiva flexível sem usar flutuação ou posicionamento.
 
@@ -522,7 +522,7 @@ Na imagem acima no cenario 1  ele ira dividir o espaço dos 200 pelos 4 colunas 
 
 Na imagem do cenario2 você consegue escolher qual coluna tera um tamanho maior que os outros.
 
-### Grid
+# Grid
 
 O Módulo de layout de grade CSS oferece um sistema de layout baseado em grade, com linhas e colunas, facilitando o design de páginas da Web sem a necessidade de usar flutuações e posicionamento.
 
