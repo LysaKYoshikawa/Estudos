@@ -1,9 +1,9 @@
-# Mentoria
+# Estudos 
 
 ![image](https://user-images.githubusercontent.com/64383080/157446940-30da23e0-a1a2-490a-9213-dd7179d4a7c7.png)
 
 
-<p align="center">🚀 Esse repositório visa a inclusão dos documentos de estudos para o desenvolvimento técnico realizado através de mentoria. Ele inclui resumos de livros anotações de cursos e links para outros repositórios onde terá projetos ligados ao desenvolvimento tecnico estudado.</p>
+<p align="center">🚀 Esse repositório visa a inclusão dos documentos de estudos para o desenvolvimento técnico. Ele inclui resumos de livros anotações de cursos e links para outros repositórios onde terá projetos ligados ao desenvolvimento tecnico estudado.</p>
 
 Tabela de conteúdos
 =================
